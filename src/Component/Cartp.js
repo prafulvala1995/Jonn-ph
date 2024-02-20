@@ -25,7 +25,7 @@ class Cartp extends Component {
         const { val, status } = this.state;
 
         if (status) {
-            
+            // checking if this is working or not
             return (
                 <>
                     <h3>Post Page</h3>
