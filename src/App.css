@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.gapp{
+  margin-right: 8px;
+}
+
+.user-container {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.user-info {
+  display: flex;
+  margin-bottom: 5px;
+}
+
+.label {
+  font-weight: bold;
+  margin-right: 5px;
+}
